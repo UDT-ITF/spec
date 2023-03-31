@@ -1,4 +1,4 @@
-# Unlocking Digital Texts Interoperable Text Framework 9ITF)
+# Unlocking Digital Texts Interoperable Text Framework (ITF)
 
 ## Status of ITF Specification
 
